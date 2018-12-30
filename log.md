@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 30th, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began process of creating new form to add mental models to the mental model dictionary with high re-use of code, increasing maintainability.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really think the Mental Model flow isn't bad, but the code standards will need to be updated as I've learned more with React, so in the near future, that will be one of the tasks I have :).
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
