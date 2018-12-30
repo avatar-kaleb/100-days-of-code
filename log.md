@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 30th, 2018
+### Day 1: December 30th, 2018
 
 **Today's Progress**: Began process of creating new form to add mental models to the mental model dictionary with high re-use of code, increasing maintainability.
 
