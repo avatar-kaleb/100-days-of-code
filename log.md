@@ -16,3 +16,11 @@
 **Thoughts:** I added a bit of tech debt to our backlog to update controller apis or ui to use suspense for success/error/loading progress.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 3: December 31th, 2018
+
+**Today's Progress**: Updated the logic for the Create New Mental Model form to generate unique image names based on mental model titles (only allowed to select files once a title has been created). Secondly, if the title is created after a user selects an image, it will update the key as well. Began looking into generating unique keys on firebase paths instead of doing it on my own - will continue that tomorrow.
+
+**Thoughts:** Creating great forms takes a bit of time, especially when adding in custom logic, needing validation, and removing duplicate code! I'm looking forward to see how this form actually ends up working out, hoping to craft some beautiful code :).
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
