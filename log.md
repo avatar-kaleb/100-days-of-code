@@ -17,7 +17,7 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
-### Day 3: December 31th, 2018
+### Day 3: January 1st, 2019
 
 **Today's Progress**: Updated the logic for the Create New Mental Model form to generate unique image names based on mental model titles (only allowed to select files once a title has been created). Secondly, if the title is created after a user selects an image, it will update the key as well. Began looking into generating unique keys on firebase paths instead of doing it on my own - will continue that tomorrow.
 
