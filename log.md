@@ -24,3 +24,11 @@
 **Thoughts:** Creating great forms takes a bit of time, especially when adding in custom logic, needing validation, and removing duplicate code! I'm looking forward to see how this form actually ends up working out, hoping to craft some beautiful code :).
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 4: January 3rd, 2019
+
+**Today's Progress**: Updated creating a mental model to now use a unique ID, which resulted in starting to mess with how we get the title of a mental model by that new ID. 
+
+**Thoughts:** I still have some cleanup to do this weekend, and will definitely be focusing on that as the MentalModelEditor component is beginning to get a bit logic heavy.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
