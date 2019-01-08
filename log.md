@@ -32,3 +32,12 @@
 **Thoughts:** I still have some cleanup to do this weekend, and will definitely be focusing on that as the MentalModelEditor component is beginning to get a bit logic heavy.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+
+### Day 5: January 8th, 2019
+
+**Today's Progress**: Continued updating the add new mental model functionality. The admin screen works fine, but not for regular users. I'm looking into adding a redirect to happen if a user tries to access a mental model editing screen on a mental model they didn't create. For now, I think I'll let Firebase handle after exploring it a bit today.
+
+**Thoughts:** I'll be cleaning up the different poc type code I created these last few days to solidify the addition of the new mental models. The last steps will be to create some validation before pushing it out!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
