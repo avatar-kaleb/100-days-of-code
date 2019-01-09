@@ -34,7 +34,7 @@
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
 
-### Day 5: January 8th, 2019
+### Day 5: January 7th, 2019
 
 **Today's Progress**: Continued updating the add new mental model functionality. The admin screen works fine, but not for regular users. I'm looking into adding a redirect to happen if a user tries to access a mental model editing screen on a mental model they didn't create. For now, I think I'll let Firebase handle after exploring it a bit today.
 
