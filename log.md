@@ -41,3 +41,11 @@
 **Thoughts:** I'll be cleaning up the different poc type code I created these last few days to solidify the addition of the new mental models. The last steps will be to create some validation before pushing it out!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 6: January 8th, 2019
+
+**Today's Progress**: Continued updating the add new mental model functionality. First, I created a new way to add in firebase DB data about the user to a high order component, now allowing us to access both the firebase auth data alongside the db data. Happy about this! Second, I integrated that functionality to update UI when a user is in a route they shouldn't be :D.
+
+**Thoughts:** I believe this will end up being pretty cool once the logic is finished and I clean up the code from all this exploration, looking forward to the end result for sure!!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
