@@ -49,3 +49,11 @@
 **Thoughts:** I believe this will end up being pretty cool once the logic is finished and I clean up the code from all this exploration, looking forward to the end result for sure!!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 6: January 9/10th, 2019
+
+**Today's Progress**: Allowed users to delete mental models once they add one. Added some new functionality for new mental models like navigating to pages on submit succes, little things like that :D.
+
+**Thoughts:** Deployed the POC code for new MMDs to prod, we'll see what people do :D.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
