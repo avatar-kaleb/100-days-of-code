@@ -57,3 +57,11 @@
 **Thoughts:** Deployed the POC code for new MMDs to prod, we'll see what people do :D.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 6: January 13th, 2019
+
+**Today's Progress**: Updated my personal site's styling to fix a mobile issue. Worked to change the rich text editor for the mental model dictionary, since the one I was using doesn't support Android.
+
+**Thoughts:** Once I fix the new RTE code, will be adding validation to the form for people.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
