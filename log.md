@@ -50,7 +50,7 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
-### Day 6: January 9/10th, 2019
+### Day 7/8: January 9/10th, 2019
 
 **Today's Progress**: Allowed users to delete mental models once they add one. Added some new functionality for new mental models like navigating to pages on submit succes, little things like that :D.
 
@@ -58,10 +58,18 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
-### Day 6: January 13th, 2019
+### Day 9: January 13th, 2019
 
 **Today's Progress**: Updated my personal site's styling to fix a mobile issue. Worked to change the rich text editor for the mental model dictionary, since the one I was using doesn't support Android.
 
 **Thoughts:** Once I fix the new RTE code, will be adding validation to the form for people.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 10: January 13th, 2019
+
+**Today's Progress**: Fixed the mobile issue for rich text editors on the app, added some quick and easy validations to let users know why they can't submit.
+
+**Thoughts:** Next stop - doing another hard look at the code to see what improvements I can make !
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
