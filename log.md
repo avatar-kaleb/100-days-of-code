@@ -74,7 +74,7 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
-### Day 11/12: January 14-15th, 2019
+### Day 11/12: January 18-19th, 2019
 
 **Today's Progress**: Added CI/CD for automated deployment with Firebase and Bitbucket Pipelines, added a dev environment to use for developers to test features with locally, and updated documents!
 
