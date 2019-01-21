@@ -81,3 +81,11 @@
 **Thoughts:** Need to get back to cleaning up the code, making sure all comments make sense, and be ready for better collaboration.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 12/13: January 20-21th, 2019
+
+**Today's Progress**: I cleaned up the code for mental model dictionary, documented standards, and tried to make sure all code followed it. I added stylelint to help catch SCSS standards, then followed that up by adding a tab layout to the main dictionary page. User's can now explore mental models, see their favorites, and edit their authored mental models quick and easy!
+
+**Thoughts:** I'm progressing well on the features - feel like once I have a good base, then I'll look forward to checking out the little things that will make the app wonderful to use.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
