@@ -89,3 +89,12 @@
 **Thoughts:** I'm progressing well on the features - feel like once I have a good base, then I'll look forward to checking out the little things that will make the app wonderful to use.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 14: January 22nd, 2019
+
+**Today's Progress**: I updated the routes to all use React Suspense and React Lazy, added new styles, and made the explore page / view mental model routes public.
+
+**Thoughts:** Good day!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
