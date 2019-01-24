@@ -98,3 +98,10 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
+### Day 15: January 23rd, 2019
+
+**Today's Progress**: Created a basic feedback form that submits into firebase, added in a react error boundary, and hopefully fixed service worker error.
+
+**Thoughts:** Learned quite a bit about the new features in react the last few days, looking forward to diving deeper into Firebase APIs the rest of this week to better handle success / errors.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
