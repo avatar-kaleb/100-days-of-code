@@ -105,3 +105,12 @@
 **Thoughts:** Learned quite a bit about the new features in react the last few days, looking forward to diving deeper into Firebase APIs the rest of this week to better handle success / errors.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+
+### Day 16-18: January 23rd-26th, 2019
+
+**Today's Progress**: Updated applicable components to use React Hooks, added React Hook plugins, created my own custom firebase hooks.
+
+**Thoughts:** Learned quite a bit about the new features in React - hooks are awesome! I'll be looking into how to best use React Memo and also updating my firebase APIs to give better success message or utilize hooks.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
