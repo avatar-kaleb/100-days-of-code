@@ -114,3 +114,12 @@
 **Thoughts:** Learned quite a bit about the new features in React - hooks are awesome! I'll be looking into how to best use React Memo and also updating my firebase APIs to give better success message or utilize hooks.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+
+### Day 15: January 27th, 2019
+
+**Today's Progress**: Updated firebase apis / controllers to better handle errors. Updated basic error messages and added loading spinners throughout app.
+
+**Thoughts:** 
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
