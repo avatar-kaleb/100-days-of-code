@@ -116,10 +116,18 @@
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
 
-### Day 15: January 27th, 2019
+### Day 19: January 27th, 2019
 
 **Today's Progress**: Updated firebase apis / controllers to better handle errors. Updated basic error messages and added loading spinners throughout app.
 
 **Thoughts:** 
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 20: February 18, 2019
+
+**Today's Progress**: Researched and changed the way the mental model RTE works for white spacing. Added new table data for about project, and removed capchas from a few pages to reduce friction on submitting.
+
+**Thoughts:**: I'm looking forward to getting most of the base functionality out of the way, pretty close at this point. This will let me move to unit testing, then adding my own spice to the app (animations).
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
