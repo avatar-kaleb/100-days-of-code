@@ -131,3 +131,11 @@
 **Thoughts:**: I'm looking forward to getting most of the base functionality out of the way, pretty close at this point. This will let me move to unit testing, then adding my own spice to the app (animations).
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 21: February 19, 2019
+
+**Today's Progress**: Added an automatic google cloud function to generate thumbnails for mental models on upload.
+
+**Thoughts:**: Firebase is awesome with great examples, thankfully I didn't have to do too much of my own coding but only comprehension for today's progress.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
