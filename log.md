@@ -139,3 +139,11 @@
 **Thoughts:**: Firebase is awesome with great examples, thankfully I didn't have to do too much of my own coding but only comprehension for today's progress.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 21: February 20, 2019
+
+**Today's Progress**: Fixed the errors happening with Firebase functions when resizing images in mental-model storage bucket. Added new feature to now delete images from firebase when a mental model is deleted.
+
+**Thoughts:**: Keep on trucking!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
