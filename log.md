@@ -140,7 +140,7 @@
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
 
-### Day 21: February 20, 2019
+### Day 22: February 20, 2019
 
 **Today's Progress**: Fixed the errors happening with Firebase functions when resizing images in mental-model storage bucket. Added new feature to now delete images from firebase when a mental model is deleted.
 
