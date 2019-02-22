@@ -147,3 +147,11 @@
 **Thoughts:**: Keep on trucking!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 23: February 21, 2019
+
+**Today's Progress**: Fixed lint-staged and husky hooks to work properly with eslint, stylelint, and pretty-quick libs. Added google analytics to track page views!
+
+**Thoughts:**: Keep on trucking!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
