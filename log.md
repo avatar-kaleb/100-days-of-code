@@ -155,3 +155,10 @@
 **Thoughts:**: Keep on trucking!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 24: February 24, 2019
+
+**Today's Progress**: Researched React Helmet and added categories to the mental model dictionaty cards.
+**Thoughts:**: Easy day - implementing React Helmet effectively will be an interesting challenge.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
