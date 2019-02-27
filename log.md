@@ -159,6 +159,15 @@
 ### Day 24: February 24, 2019
 
 **Today's Progress**: Researched React Helmet and added categories to the mental model dictionaty cards.
+
 **Thoughts:**: Easy day - implementing React Helmet effectively will be an interesting challenge.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 25: February 26, 2019
+
+**Today's Progress**: Started to work on the profile page to let users give more info about themselves.
+
+**Thoughts:**: Trying to decide on the best profile design based on researching some examples!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
