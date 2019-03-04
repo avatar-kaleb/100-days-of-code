@@ -171,3 +171,11 @@
 **Thoughts:**: Trying to decide on the best profile design based on researching some examples!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 26: March 4, 2019
+
+**Today's Progress**: Began working to incorporate SEO into MMD, but React-Helmet was not working well with lots of max call-stack errors. Decided to parking lot that for now, and moved to added share buttons while viewing mental models.
+
+**Thoughts:**: Trying my best to finish up all the features that give a solid product to market by the end of March!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
