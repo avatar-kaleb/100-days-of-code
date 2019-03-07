@@ -179,3 +179,19 @@
 **Thoughts:**: Trying my best to finish up all the features that give a solid product to market by the end of March!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 27: March 6, 2019
+
+**Today's Progress**: Looked into pagespeed insights to improve scores. The challenge so far has been image loading, even with the interaction observer. It look's like React-MD is rendering all of the cards, so will be looking into that more later.
+
+**Thoughts:**: I wanted to have the top performance on my app, and take a break from new features.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 28: March 7, 2019
+
+**Today's Progress**: Continued looking into PageSpeed insights to fix any issues, most notable learned how to do caching with firebase and font loading with @font-face.
+
+**Thoughts:**: I wanted to have the top performance on my app, and take a break from new features.
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
