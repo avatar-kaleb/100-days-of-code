@@ -195,3 +195,11 @@
 **Thoughts:**: I wanted to have the top performance on my app, and take a break from new features.
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 29: March 8, 2019
+
+**Today's Progress**: Worked on getting firebase functions to automatically convert newly uploaded mental model images to webp. It looks like webp isn't working with firebase for some reason -- started switching from imagemagick to npm module.
+
+**Thoughts:**: Performance is worth the effort!
+
+**Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
