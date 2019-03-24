@@ -203,3 +203,11 @@
 **Thoughts:**: Performance is worth the effort!
 
 **Link to work:** [Mental Model Dictionary](http://mentalmodeldictionary.com)
+
+### Day 30-33: March 20-24, 2019
+
+**Today's Progress**: Began working on a new site for Gatsby JS themes.
+
+**Thoughts:**: Material UI with css in JS has been an interesting thing to learn, looking forward to it.
+
+**Link to work:** [Great Gatsbyjs Themes](https://greatgatsbyjsthemes.com)
