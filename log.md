@@ -211,3 +211,10 @@
 **Thoughts:**: Material UI with css in JS has been an interesting thing to learn, looking forward to it.
 
 **Link to work:** [Great Gatsbyjs Themes](https://greatgatsbyjsthemes.com)
+
+### Day 34: April, 14 2019
+
+**Today's Progress**: Starting to revamp on my Gatsby knowledge with a refresh. Today I went through the tutorials, and will continue working through all of the guides.
+
+**Thoughts:**: I'll be using this knowledge to do better with creating themes in the next month.
+
