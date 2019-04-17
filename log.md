@@ -218,3 +218,10 @@
 
 **Thoughts:**: I'll be using this knowledge to do better with creating themes in the next month.
 
+### Day 35-36: April, 16-17 2019
+
+**Today's Progress**: Was able to get the blog posts working and styling correct for heading/footer on my great gatsby theme site. Next will be to style the actual blog posts and start working on architecture for themes.
+
+**Thoughts:**: Gatsby is awesome!!
+
+
