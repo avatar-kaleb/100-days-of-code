@@ -225,3 +225,8 @@
 **Thoughts:**: Gatsby is awesome!!
 
 
+### Day 37-44: April, 18-25th 2019
+
+**Today's Progress**: I created and finally published my first npm packages. https://www.npmjs.com/package/@greatgatsbyjs/gatsby-theme-ggt-material-ui-blog and https://www.npmjs.com/package/@greatgatsbyjs/gatsby-starter-ggt-material-ui-blog
+
+**Thoughts:**: Gatsby is awesome!!
