@@ -230,3 +230,9 @@
 **Today's Progress**: I created and finally published my first npm packages. https://www.npmjs.com/package/@greatgatsbyjs/gatsby-theme-ggt-material-ui-blog and https://www.npmjs.com/package/@greatgatsbyjs/gatsby-starter-ggt-material-ui-blog
 
 **Thoughts:**: Gatsby is awesome!!
+
+### Day 44-50: April, 18-25th 2019
+
+**Today's Progress**: I've been working each day on my great gatsby theme site, learning more about how I want to structure the site and things going forward.
+
+**Thoughts:**: Gatsby and Material UI make side-projects much quicker, and for that I'm happy :D
