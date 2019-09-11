@@ -236,3 +236,12 @@
 **Today's Progress**: I've been working each day on my great gatsby theme site, learning more about how I want to structure the site and things going forward.
 
 **Thoughts:**: Gatsby and Material UI make side-projects much quicker, and for that I'm happy :D
+
+### Day 51: September, 11th 2019
+
+**Today's Progress**: I'm working through the coursera algorithms classes - week 3, greedy algorithm problems! It's been a little while as I was traveling, followed by having to contact their help department to enroll in the class properly.
+
+**Thoughts:**: I will complete these assignments on time! I must, I can :D
+
+
+
