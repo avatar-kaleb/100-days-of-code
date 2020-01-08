@@ -243,5 +243,9 @@
 
 **Thoughts:**: I will complete these assignments on time! I must, I can :D
 
+### Day 51-100: September 12-December 31st 2019
+
+I completed over 150 leet code challenge problems to improve on my algorithm and data structure skills. Typically I completed 1-2 a day, with some days over 10. It's a blast and challenge that helped me reach the end of the 100 day code challenge!
+
 
 
